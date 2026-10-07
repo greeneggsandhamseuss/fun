@@ -1,8 +1,5 @@
 
-
-
-'''
-TURTLE TEST
+# TURTLE TEST
 from turtle import *
 import colorsys
 
@@ -20,7 +17,5 @@ for i in range(16):
         circle(150 - j * 6, 90)
         rt(180)
     circle(40, 24)
-
-'''
 
 
